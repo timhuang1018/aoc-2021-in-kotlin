@@ -1,6 +1,6 @@
 package day02
 
-import day01.readInput
+import util.readInput
 
 fun main(){
 

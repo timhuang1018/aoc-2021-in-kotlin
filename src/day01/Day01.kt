@@ -1,5 +1,6 @@
 package day01
 
+import util.readInput
 import java.util.*
 
 
